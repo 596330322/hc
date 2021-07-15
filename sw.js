@@ -2,7 +2,7 @@ self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('health-code').then((cache) => cache.addAll([
       '/',
-      'manifest.webmanifest',
+      'manifest.json',
       'index.html',
       'global.css',
       'favicon.png',
