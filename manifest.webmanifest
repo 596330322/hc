@@ -1,0 +1,14 @@
+{
+  "background_color": "#5790EC",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "name": "粤康码",
+  "short_name": "粤康码",
+  "start_url": "index.html"
+}
