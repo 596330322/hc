@@ -6,7 +6,7 @@
       "src": "favicon.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any"
     }
   ],
   "name": "粤康码",
