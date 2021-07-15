@@ -6,9 +6,9 @@ self.addEventListener('install', (e) => {
       'index.html',
       'global.css',
       'favicon.png',
-      'build/bundle.css',
-      'build/bundle.js',
-      'build/frame.png',
+      'bundle.css',
+      'bundle.js',
+      'assets/frame.png',
     ])),
   );
 });
