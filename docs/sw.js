@@ -8,7 +8,9 @@ self.addEventListener('install', (e) => {
       'favicon.png',
       'bundle.css',
       'bundle.js',
-      'assets/frame.png',
+      'assets/healthy/bg.png',
+      'assets/trip/bg.png',
+      'assets/trip/arrow.png',
     ])),
   );
 });

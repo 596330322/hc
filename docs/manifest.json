@@ -1,5 +1,5 @@
 {
-  "background_color": "#5790EC",
+  "background_color": "#FFFFFF",
   "display": "standalone",
   "icons": [
     {
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "name": "粤康码",
-  "short_name": "粤康码",
+  "name": "码",
+  "short_name": "码",
   "start_url": "index.html"
 }
